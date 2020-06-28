@@ -14,12 +14,12 @@ generator
 ---
 
 ## Description
-The intent of this project is to help create the perfect ReadMe for potential hiring companies and Users of the website or app. A ReadMe helps clarifying the intent and use of the software in questions.
+The intent of this project is to help create the perfect ReadMe for potential hiring companies and Users of the website or app. A ReadMe helps clarifying the intent and use of the software in questions. 
 
 
 ---
 ## Installation
-First, FORK this repo to your own repository. Second, CLONE the repo to your computer(forked version) into the folder of your choice. Third, INSTALL Node API/inquire module package by doing the following: “npm Install”. Fourth, RUN the following 3 paramaters: 1) node 2) index.js 3) a name for your file without using ‘md’. EXAMPLE: node index.js generator
+First, FORK this repo to your own repository. Second, CLONE the repo to your computer(forked version) into the folder of your choice. Third, do "NPM init" and thenINSTALL Node API/inquire module package by doing the following: “npm Install”. Fourth, RUN the following 3 paramaters: 1) node 2) index.js 3) a name for your file without using ‘md’. EXAMPLE: node index.js generator 
 
 
 [Back To The Top](#read-me-template)
@@ -27,13 +27,13 @@ First, FORK this repo to your own repository. Second, CLONE the repo to your com
 ---
 
 ## How To Use
-First, FORK this repo to your own repository. Second, CLONE the repo to your computer(forked version) into the folder of your choice. Third, INSTALL Node API/inquire module package by doing the following: “npm Install”. Fourth, RUN the following 3 paramaters: 1) node 2) index.js 3) a name for your file without using ‘md’. EXAMPLE: node index.js generator
+First, FORK this repo to your own repository. Second, CLONE the repo to your computer(forked version) into the folder of your choice. Third, do "NPM init" and thenINSTALL Node API/inquire module package by doing the following: “npm Install”. Fourth, RUN the following 3 paramaters: 1) node 2) index.js 3) a name for your file without using ‘md’. EXAMPLE: node index.js generator 
 
 [Back To The Top](#read-me-template)
 
 ---
 ## Contribution
-undefined
+Alex Saint Victor
 
 [Back To The Top](#read-me-template)
 
