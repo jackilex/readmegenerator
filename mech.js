@@ -47,7 +47,7 @@ const questions= [
       },
       {
         type:'input',
-        name: 'contributing',
+        name: 'contribution',
         message: 'List the names of all who contributed in this project',
       },
       {
