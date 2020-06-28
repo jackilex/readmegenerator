@@ -43,7 +43,7 @@ const questions= [
         type: 'list',
       name: 'license',
       message: 'chose a licence',
-      choices: ['MIT', 'Apache License 2.0', 'Mozilla Public License 2.0'],
+      choices: ['MIT', 'Apache License 2.0'],
       },
       {
         type:'input',
@@ -68,7 +68,10 @@ const questions= [
 
   ]
 
+
+
 //exporting functions
+
 module.exports={
 writeFIle,
 questions,
