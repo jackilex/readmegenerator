@@ -15,12 +15,12 @@ let lic;
 
 const syncAndCreate= function(data){
     if (data.license=== 'MIT'){
-         lic= `Copyright (c) ${new Date().getFullYear()}[Name]. All rights reserved.
+         lic= `Copyright (c) ${new Date().getFullYear()}[Name of holder]. All rights reserved.
         
         This work is licensed under the terms of the MIT license.  
         For a copy, see <https://opensource.org/licenses/MIT>.`
         }else{
-         lic=`Copyright (c) ${new Date().getFullYear()} [Name]. All rights reserved.
+         lic=`Copyright (c) ${new Date().getFullYear()} [Name of holder]. All rights reserved.
         
         This work is licensed under the terms of the APACHE license.  
         For a copy, see <https://www.apache.org/licenses/LICENSE-2.0>.`

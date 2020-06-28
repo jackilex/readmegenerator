@@ -41,11 +41,4 @@ else{
 
 runThem()
 
-
-
-
-// fs.appendFile(newFile,JSON.stringify(answers), function (err) {
-//     if (err) throw err;
-//     console.log('Saved!');
-//   });
   
